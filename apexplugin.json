@@ -3,7 +3,7 @@
 	"version": "1.0",
 	"description": "Show users the status of a process in your Oracle APEX application",
 	"keywords": ["progress"],
-	"homepage": "https://kjwvivmv0n5reuj-apexkqor.adb.uk-london-1.oraclecloudapps.com/ords/r/test1/calendar-plugin/home1",
+	"homepage": "https://github.com/fistle/oracle-apex-progress-status-region-plugin.git",
 	"bugs": {
 		"url": "https://github.com/fistle/oracle-apex-progress-status-region-plugin/issues",
 		"email": "davielang@gmail.com"
