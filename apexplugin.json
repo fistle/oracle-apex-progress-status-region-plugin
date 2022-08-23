@@ -27,7 +27,7 @@
 			"plugin": {
 				"internalName": "GLASGOW-PROGRESS-STATUS",
 				"type": "region",
-				"demo": "https://kjwvivmv0n5reuj-apexkqor.adb.uk-london-1.oraclecloudapps.com/ords/r/test1/calendar-plugin/progress-status-indicator",
+				"demo": "https://kjwvivmv0n5reuj-apexkqor.adb.uk-london-1.oraclecloudapps.com/ords/r/test1/calendar-plugin/progress-status-indicator?session=105077030268247",
                                 "previewImage" : "https://github.com/fistle/oracle-apex-progress-status-region-plugin/blob/main/progress-indicator.gif?raw=true'"
 
 			}
