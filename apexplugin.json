@@ -23,7 +23,7 @@
 	"oracle": {
 		"versions": ["11.2.0.1", "12.1.0.1"],
 		"apex": {
-			"versions": ["21.1.0"],
+			"versions": ["22.1.0"],
 			"plugin": {
 				"internalName": "GLASGOW-PROGRESS-STATUS",
 				"type": "region",
