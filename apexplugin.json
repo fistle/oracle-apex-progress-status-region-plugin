@@ -23,11 +23,12 @@
 	"oracle": {
 		"versions": ["11.2.0.1", "12.1.0.1"],
 		"apex": {
-			"versions": ["21.2.0"],
+			"versions": ["21.1.0"],
 			"plugin": {
 				"internalName": "glasgow.region_type_plugin_glasgow_progress_status",
 				"type": "region",
-				"demo": "https://kjwvivmv0n5reuj-apexkqor.adb.uk-london-1.oraclecloudapps.com/ords/r/test1/plugin/home?session=105323527211920"
+				"demo": "https://kjwvivmv0n5reuj-apexkqor.adb.uk-london-1.oraclecloudapps.com/ords/r/test1/plugin/home?session=105323527211920",
+                                "previewImage" : "https://github.com/fistle/oracle-apex-progress-status-region-plugin/blob/main/progress-indicator.gif"
 
 			}
 		}
